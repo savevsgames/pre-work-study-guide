@@ -14,7 +14,6 @@ This project is a website designed to showcase the basic skills used in website 
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [Badges](#badges)
 
 ## Installation
 
@@ -34,9 +33,7 @@ U of T Bootcamp Class - Pre-Work
 
 MIT
 
-## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
 
 
