@@ -17,13 +17,13 @@ This project is a website designed to showcase the basic skills used in website 
 
 ## Installation
 
-Open in a web browser to view topics. Use F12 to inspect JavaScript.
+Open in a web browser and visit [alt link](https://savevsgames.github.io/pre-work-study-guide/) to view topics. Use F12 to inspect JavaScript.
 
 ## Usage
 
 Add elements to the lists as needed in your IDE.
 
-![alt text](assets/images/screenshot.png)
+![alt screenshot](assets/images/screenshot.png)
 
 ## Credits
 
